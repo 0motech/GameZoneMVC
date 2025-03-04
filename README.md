@@ -28,3 +28,6 @@ CRUD application built with .NET MVC, Entity Framework Core, and jQuery. It lets
 ✔ Bootstrap for UI Styling
 
 ✔ Data Annotations & jQuery Validation for robust form handling
+
+## Demo Video
+[![Demo Video]![image](https://github.com/user-attachments/assets/75cb6678-713c-4e80-af72-9dfeb1e18168)](https://youtu.be/hadL1tDmHd4)
